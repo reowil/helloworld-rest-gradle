@@ -2,3 +2,6 @@
 REST-helloworld Spring Boot application - built with Gradle
 
 Just playing around trying stuff out 
+
+#### To run 
+gradle bootRun 
